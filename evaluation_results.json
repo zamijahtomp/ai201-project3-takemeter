@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 0.6923,
+  "finetuned_accuracy": 0.4333,
+  "improvement": -0.259,
+  "test_set_size": 30,
+  "label_map": {
+    "Discussion": 0,
+    "Haul": 1,
+    "Before/After - Progress Pics": 2,
+    "Humor/Fluff": 3
+  },
+  "model": "distilbert-base-uncased"
+}
